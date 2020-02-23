@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "Example.py", line 10, in <module>
+    raise Exception('This is a error message')
+Exception: This is a error message
